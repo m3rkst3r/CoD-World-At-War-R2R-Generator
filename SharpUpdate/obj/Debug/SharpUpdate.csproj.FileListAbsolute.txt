@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.dll
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.pdb
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.Properties.Resources.resources
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateAcceptForm.resources
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateDownloadForm.resources
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateInfoForm.resources
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.dll
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.pdb
+C:\Users\micha\source\repos\CoD-World-At-War-R2R-Generator\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csprojAssemblyReference.cache
